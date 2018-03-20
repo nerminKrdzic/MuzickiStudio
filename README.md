@@ -8,9 +8,11 @@
 
 ## **Procesi**
 
-######*Proces registracije* Korisnik unosi svoje podatke (ime,prezime, e-mail, korisnicko ime, sifru), zatim se vrsi validacija podataka. U slucaju da validacija ne prodje korinik mora unijeti validne podatke. Ako je validacija prosla kreira se korisnicki profil (account), i korisnik je u stanju da pravi svoje liste pjesama, da ocjenjuje i/ili komentarise djela drugih korisnika ukljucujuci i mogucnosti koje su date "guest" korisniku.  
+###### **Proces registracije** 
+Korisnik unosi svoje podatke (ime,prezime, e-mail, korisnicko ime, sifru), zatim se vrsi validacija podataka. U slucaju da validacija ne prodje korinik mora unijeti validne podatke. Ako je validacija prosla kreira se korisnicki profil (account), i korisnik je u stanju da pravi svoje liste pjesama, da ocjenjuje i/ili komentarise djela drugih korisnika ukljucujuci i mogucnosti koje su date "guest" korisniku.  
 
-######*Proces prijavljivanja(logina)* Korisnik unosi korisnicko ime i sifru, Validiraju se podaci i, u slucaju pada validacije, ispisuju upozorenja u skladu s greskom npr.(nepostojece korisnicko ime, neispravna sifra td..). Prolaskom validacije se otvara profil korisnika   
+###### **Proces prijavljivanja(logina)** 
+Korisnik unosi korisnicko ime i sifru, Validiraju se podaci i, u slucaju pada validacije, ispisuju upozorenja u skladu s greskom npr.(nepostojece korisnicko ime, neispravna sifra td..). Prolaskom validacije se otvara profil korisnika   
 
 ###### **Preoporuka pjesama**
 Nakon što korisnik zatraži preporuku pjesama sistem će analizirati njegove najslušanije pjesme te na osnovu toga filtrirati pjesme iz baze podataka te sastaviti listu pjesama za korisnika
