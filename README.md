@@ -8,10 +8,10 @@
 
 ## **Procesi**
 
-###### **Proces registracije** 
+###### **Registracija** 
 Korisnik unosi svoje podatke (ime,prezime, e-mail, korisnicko ime, sifru), zatim se vrsi validacija podataka. U slucaju da validacija ne prodje korinik mora unijeti validne podatke. Ako je validacija prosla kreira se korisnicki profil (account), i korisnik je u stanju da pravi svoje liste pjesama, da ocjenjuje i/ili komentarise djela drugih korisnika ukljucujuci i mogucnosti koje su date "guest" korisniku.  
 
-###### **Proces prijavljivanja(logina)** 
+###### **Prijavljivanje(logina)** 
 Korisnik unosi korisnicko ime i sifru, Validiraju se podaci i, u slucaju pada validacije, ispisuju upozorenja u skladu s greskom npr.(nepostojece korisnicko ime, neispravna sifra td..). Prolaskom validacije se otvara profil korisnika   
 
 ###### **Preoporuka pjesama**
@@ -26,5 +26,6 @@ Korisnik može da zatraži prikaz najslušanijih pjesama u mjesecu nakon čega s
 ###### **Promovisanje**
 VIP korisnici mogu rezervisati (ukoliko nisu već svi slotovi zauzeti) mjesto na promotivnom tabu aplikacije. Prilikom rezervisanja slota za reklamiranje korisnik odabire pjesmu ili event koji želi da promoviše, odabire vremenski period na koji želi da to promoviše (max 7 dana) i eventualno dodaje dodatni tekst na reklamu. Nakon toga se obračunava svota koja se naplaćuje za tu reklamu. Nakon toga drugi korisnici promovisani sadržaj pronalaze u posvećenom dijelu aplikacije te klik na reklamu ih dovodi na tu pjesmu/događaj.
 
-
+###### **Upload pjesama**
+Korisnik odabire pjesmu koju zeli da upload-uje, Nakon cega pise naziv pjesme, tip zanra, da li zeli dopustiti komentare na svoju pjesmu, i na kraju stavlja svoj komentar (ako hoce), i vrsi upload na aplikaciju. 
 
