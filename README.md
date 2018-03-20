@@ -27,5 +27,21 @@ Korisnik može da zatraži prikaz najslušanijih pjesama u mjesecu nakon čega s
 VIP korisnici mogu rezervisati (ukoliko nisu već svi slotovi zauzeti) mjesto na promotivnom tabu aplikacije. Prilikom rezervisanja slota za reklamiranje korisnik odabire pjesmu ili event koji želi da promoviše, odabire vremenski period na koji želi da to promoviše (max 7 dana) i eventualno dodaje dodatni tekst na reklamu. Nakon toga se obračunava svota koja se naplaćuje za tu reklamu. Nakon toga drugi korisnici promovisani sadržaj pronalaze u posvećenom dijelu aplikacije te klik na reklamu ih dovodi na tu pjesmu/događaj.
 
 ###### **Upload pjesama**
-Korisnik bira pjesmu koju zeli da upload-uje, Nakon cega pise naziv pjesme, tip zanra, da li zeli dopustiti komentare nad svojom pjesmom, i na kraju stavlja svoj komentar (ne obavezan), i vrsi upload na aplikaciju. 
+Korisnik odabire pjesmu koju zeli da upload-uje, Nakon cega pise naziv pjesme, tip zanra, da li zeli dopustiti komentare na svoju pjesmu, i na kraju stavlja svoj komentar (ako hoce), i vrsi upload na aplikaciju. 
 
+## **Funkcionalnosti**
+
+######- Mogucnost slusanja raznih vrsta pjesama
+- Mogucnost pretrage pjesama po nazivu pjesme
+- Mogucnost pretrage pjesama po nazivu izvodjaca
+- Mogucnost pretrage pjesama po zanru
+- Mogucnost pretrage pjesama preporukom
+- Mogucnost kreiranja privatne play-liste
+- Mogucnost pracenja najpreslusnijih pjesama
+- Mogucnost pracenja najnovijih(novododanih) pjesama
+- Mogucnost ocjenjivanja pjesama
+- Mogucnost ostavljanja komentara nad pjesmama
+- Mogucnost upload-a sopstvenih pjesama
+- Mogucnost dodavanja event-a
+- Mogucnost prikaza event-a drugih korisnika
+- Mogucnost rezervisanja reklame za pjesmu ili event
