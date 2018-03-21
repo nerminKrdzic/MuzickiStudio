@@ -39,7 +39,8 @@ Korisnik odabire pjesmu koju zeli da upload-uje, Nakon cega pise naziv pjesme, t
 
 ######
 - Mogucnost slusanja raznih vrsta pjesama
-- Mogucnost slusanja raznih vrsta pjesama
+- Mogucnost registracije
+- Mogucnost nadograđivanja računa na VIP
 - Mogucnost pretrage pjesama po nazivu pjesme
 - Mogucnost pretrage pjesama po nazivu izvodjaca
 - Mogucnost pretrage pjesama po zanru
@@ -57,5 +58,5 @@ Korisnik odabire pjesmu koju zeli da upload-uje, Nakon cega pise naziv pjesme, t
 ## **Akteri**
 
 ######
-- Korisnik (neregistrovani / guest korisnik, registrovani korisnik, VIP korisnik)
-- Administrator sistema
+- Korisnik (neregistrovani / guest korisnik, registrovani korisnik, VIP korisnik) guest korisnik ima mogućnost pretraživanja pjesama po nazivu pjesme, izvođača ili po žanru te pregled najslušanijih pjesama. Registrovani korisnik ima mogućnost još i da traži preporuku pjesme, da dodaje pjesme u svoje playliste kao i da nadogradi svoj account na VIP korisnika. VIP korisnici još imaju i mogućnost uploadovanja vlastitih pjesama, promovisanja tih pjesama te dodavanja eventova. 
+- Administrator sistema - administrator sistema ima mogućnost uklanjanja bugova u aplikaciji, ažuriranje aplikacije, banovanje i brisanje korisničkih računa
