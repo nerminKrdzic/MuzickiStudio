@@ -31,7 +31,7 @@ Korisnik odabire pjesmu koju zeli da upload-uje, Nakon cega pise naziv pjesme, t
 
 ## **Funkcionalnosti**
 
-######- Mogucnost slusanja raznih vrsta pjesama
+###### - Mogucnost slusanja raznih vrsta pjesama
 - Mogucnost pretrage pjesama po nazivu pjesme
 - Mogucnost pretrage pjesama po nazivu izvodjaca
 - Mogucnost pretrage pjesama po zanru
