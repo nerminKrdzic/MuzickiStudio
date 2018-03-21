@@ -1,5 +1,11 @@
 ﻿# MuzickiStudio
 
+## **Tema: MusicBox**
+
+## **Članovi tima:**
+	1. Nermin Krdžić
+	2. Emir Šehović
+
 ## **Opis teme**
 
 ###### Glavni fokus MusicBox aplikacije je omogućavanje korisnicima pristup raznim vrstama pjesama. Mnogi vole da slušaju muziku dok uče, bave se nekom fizičkom aktivnosti ili čisto radi relaksacije. Ova aplikacija će im to pružiti. Korisnici mogu odabrati sebi omiljene pjesme ili razvrstati ih u liste koje slušaju ovisno o aktivnosti koju rade ili u kojem su raspoloženju te tako jednostavno odabrati koju muziku žele slušati. Međutim, može nam dosaditi čak i naša omiljena pjesma te tada korisnici mogu istražiti neki potpuno novi tip muzike ili mogu zatražiti da im aplikacija preporuči neke nove pjesme slične onima koje su korisniku omiljene. Također, MusicBox podstiče korisnike na kreativnost te im omogućava i uploadovanje njihovih vlastitih djela na koja mogu dobiti feedback od ostalih korisnika u vidu ocjene i/ili komentara. Nekada fanovima muzike nije dovoljno čisto slušanje muzike kroz slušalice te tada mogu posjetiti profil svojih omiljenih izvođača i provjeriti da li imaju organizovan neki događaj kao i dobiti informacije o tom događaju. 
@@ -31,7 +37,8 @@ Korisnik odabire pjesmu koju zeli da upload-uje, Nakon cega pise naziv pjesme, t
 
 ## **Funkcionalnosti**
 
-######- Mogucnost slusanja raznih vrsta pjesama
+######
+- Mogucnost slusanja raznih vrsta pjesama
 - Mogucnost pretrage pjesama po nazivu pjesme
 - Mogucnost pretrage pjesama po nazivu izvodjaca
 - Mogucnost pretrage pjesama po zanru
@@ -45,3 +52,9 @@ Korisnik odabire pjesmu koju zeli da upload-uje, Nakon cega pise naziv pjesme, t
 - Mogucnost dodavanja event-a
 - Mogucnost prikaza event-a drugih korisnika
 - Mogucnost rezervisanja reklame za pjesmu ili event
+
+## **Akteri**
+
+######
+- Korisnik (neregistrovani / guest korisnik, registrovani korisnik, VIP korisnik)
+- Administrator sistema
