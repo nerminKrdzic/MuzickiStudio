@@ -3,8 +3,8 @@
 ## **Tema: MusicBox**
 
 ## **Članovi tima:**
-	1. Nermin Krdžić
-	2. Emir Šehović
+1. Nermin Krdžić
+2. Emir Šehović
 
 ## **Opis teme**
 
@@ -37,12 +37,11 @@ Korisnik odabire pjesmu koju zeli da upload-uje, Nakon cega pise naziv pjesme, t
 
 ## **Funkcionalnosti**
 
-<<<<<<< HEAD
 ######
 - Mogucnost slusanja raznih vrsta pjesama
 =======
-###### - Mogucnost slusanja raznih vrsta pjesama
->>>>>>> 41c50f5239ab326bdf93a9a7dbae33bc19b06ac4
+######
+- Mogucnost slusanja raznih vrsta pjesama
 - Mogucnost pretrage pjesama po nazivu pjesme
 - Mogucnost pretrage pjesama po nazivu izvodjaca
 - Mogucnost pretrage pjesama po zanru
